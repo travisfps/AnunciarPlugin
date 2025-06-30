@@ -1,0 +1,12 @@
+# Anuncio Style Config
+# By: Travis
+
+Permissao: "anunciar.usar"
+
+Mensagem-Apenas-Jogador: "&cApenas jogadores podem usar esse comando."
+Mensagem-Sem-Permissao: "&cVocê não tem permissão para usar esse comando."
+Comando-Incorreto: "&cComando incorreto, use /anunciar <mensagem>"
+
+Chat: "&f\n &eAnúncio:\n%alerta%\n &f"
+Title: "&e&lAviso" # Deixe vazio para nao usar
+SubTitle: "&eNovo anúncio!" # Deixe vazio para nao usar

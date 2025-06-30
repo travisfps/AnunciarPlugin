@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Anunciar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Anunciar_jar</output-path>
+    <root id="archive" name="Anunciar.jar">
+      <element id="module-output" name="Anunciar" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../plat/spigot-1.8.8.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+    </root>
+  </artifact>
+</component>

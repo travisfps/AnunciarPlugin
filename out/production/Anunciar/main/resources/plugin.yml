@@ -1,0 +1,16 @@
+name: AnunciarStyle
+version: 1.0
+main: me.anunciar.AnunciarStyle
+
+commands:
+  anunciar:
+    description: Envia um anúncio para todos os jogadores.
+    usage: /anunciar <mensagem>
+    permission: anunciar.usar
+    permission-message: Você não tem permissão para usar esse comando.
+
+  anunciaradmin:
+    description: Comandos administrativos do Anunciar.
+    usage: /anunciaradmin reload
+    permission: anunciar.admin
+    permission-message: Você não tem permissão para usar esse comando.
