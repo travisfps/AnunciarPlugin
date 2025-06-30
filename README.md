@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/20973562/README.md)
 # 📢 AnunciarPlugin
 
 Um plugin simples e leve para servidores 1.8.8 que permite que jogadores (administradores) anunciem mensagens para todos online via chat.
